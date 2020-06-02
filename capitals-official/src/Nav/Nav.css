@@ -1,0 +1,9 @@
+.nav__container {
+  background-color: #ffff;
+  display: flex;
+  justify-content: space-between;
+  height: 3em;
+  padding: .5em;
+  position: fixed;
+  width: 100%;
+}

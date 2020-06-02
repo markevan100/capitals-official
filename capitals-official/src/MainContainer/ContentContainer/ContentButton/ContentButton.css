@@ -1,0 +1,34 @@
+.content-button__button {
+  border: 1px solid #09457E;
+  border-radius: 5px;
+  font-family: roboto;
+  height: 30px;
+  text-align: center;
+  margin-right: 41%;
+  margin-left: auto;
+  margin-top: .25em;
+  padding-top: 10px;
+  width: 6em;
+}
+
+.content-button__button a {
+  text-decoration: none;
+
+}
+
+.content-button__blue-button {
+  background-color: #09457E;
+  margin-top: 40px;
+}
+
+.content-button__blue-button a {
+  color: #ffff;
+}
+
+.content-button__white-button {
+  margin-top: 50px;
+}
+
+.content-button__white-button a {
+  color: #09457E;
+}

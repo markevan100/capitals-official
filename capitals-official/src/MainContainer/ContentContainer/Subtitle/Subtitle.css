@@ -1,0 +1,10 @@
+.subtitle {
+  display: inline-block;
+  font-family: roboto;
+  font-size: 28px;
+  font-weight: 200;
+  line-height: 40px;
+  padding-top: 50px;
+  text-align: center;
+  width: 320px;
+}

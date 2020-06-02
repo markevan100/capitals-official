@@ -1,0 +1,6 @@
+.nav-buttons__container {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 4em;
+  width: 242px;
+}
